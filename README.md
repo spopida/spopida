@@ -1,6 +1,6 @@
 |  :droplet:  | About me             |
 |----|---------------------------|
-| 👋 | Hi, I’m @spopida |
+| 👋 | Hi, I’m @spopida aka Adrian Hall |
 | 👀 | I’m interested in Java, Spring, OAuth2 + OIDC, MongoDB, REST, Messaging, RabbitMQ, WebFlux, ReactJS, CQRS, DDD, JSON, JavaScript, ES6, Microservices, Docker, Event Sourcing, ... well you get the gist |
 | 🌱 | I’m currently learning ... all of the above |
 | 💞️ | I’m a member of the [https://github.com/mermaid-js](mermaid-js) organization, having authored the Entity-Relationship Diagram feature in 2020.  I am maintaining and improving this on an ad-hoc basis | 
